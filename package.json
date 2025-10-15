@@ -7,7 +7,7 @@
     "test": "npx playwright test",
     "Smoke_Test": "npx playwright test --grep @smoke",
     "Smoke_Test_Chrome": "npx playwright test --grep @smoke --project=chromium",
-    "Smoke_Test_Listener": "npx playwright test --grep @smoke --list"
+    "Smoke_Test_List": "npx playwright test --grep @smoke --list"
   },
   "keywords": [],
   "author": "",
